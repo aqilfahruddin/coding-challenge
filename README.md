@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Coding Challenge by Regov Technologies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For this project, im using Node.js to develop the front-end where there are 3 pages (Register, Login and User Profile). 
+
+The front-end work smoothly where user need to insert all required information for Login & Register. 
+(If any of the required information is not been filled, the system will diaplay error message)
+After user click the Login/Register button, a User Profile page will display with email thats been inserted.
+User can Logout to redirect back to Login Pages.
+
+However, the backend is not implemented yet since Im just start learning React JS after this task was assigned. 
+I appreciate the opportunity to work on this challenge.
 
 ## Available Scripts
 
